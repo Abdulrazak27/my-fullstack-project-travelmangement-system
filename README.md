@@ -127,9 +127,7 @@ Single GitHub repository for version control
 
 Multi-container deployment via Docker Compose
 
-Screenshots (Optional)
 
-(You can paste screenshots of your running frontend, backend API, or Docker containers here for extra clarity.)
 
 Authors
 
@@ -147,3 +145,4 @@ Successfully cloned, configured, and executed full-stack Travel Management Syste
 Deployed using Docker Compose for multi-container setup.
 
 All modules verified and working.
+
