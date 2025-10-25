@@ -1,18 +1,27 @@
 # Travel Management System – Full Stack Deployment
 
 ## Project Overview
-This project is a full-stack Travel Management System developed for the university healthcare portal.
+This project is a full-stack Travel Management System developed for the university healthcare portal. It allows users to register, login, and access a dashboard showing travel modules including Destinations, Bookings, and Payments.  
 
-**Backend:** Spring Boot (Java)  
-**Frontend:** React + Vite  
-**Database:** MySQL  
-**Deployment:** Docker Compose  
+**Key Features:**
+- User Signup and Login with authentication
+- Dashboard with Destinations, Bookings, and Payments
+- Integration of Frontend and Backend
+- Multi-container deployment using Docker Compose
+- Data persistence using MySQL
 
 ---
 
-## Local Setup Instructions
+## Technology Stack
 
-### 🖥️ Backend
-1. Navigate to backend folder:
-   ```bash
-   cd carrental-backend
+| Layer       | Technology                 |
+|------------|----------------------------|
+| Backend    | Java Spring Boot           |
+| Frontend   | React + Vite              |
+| Database   | MySQL                     |
+| Deployment | Docker Compose            |
+
+---
+
+## Folder Structure
+
